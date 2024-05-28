@@ -19,10 +19,11 @@ INSTALLATION GUIDE
 - All codes can be downloaded and used right away
 
 - DEMO
-- Instructions: The code for running the demo is named ‘Democode’ and 'DemoData'.
+- Instructions: The code for running the demo is named ‘DemoCode’ and 'DemoData'.
 
   INSTRUCTIONS FOR USE
 - Add both folder into work path and run the code 'CellDefinition.m'
 - Expected output: Define delay active cell, time cell, time-limited cell and consistent on cell and plot figures (Main Figure 2-4).
 - Expected time to run demo on desktop computer: 10 minutes
 - All other codes are included in the folder ‘AllSessions’. Those codes are not sufficiently well structured yet. All codes needed for reproducing the results of the paper are included in the folder ‘AllSessions’.
+- All quantifications are done by codes inside 'AllSessions/Quantifications'
